@@ -1,2 +1,4 @@
 # hello-world
-My first repo!
+Welcome to my Hello World repo. 
+
+I hope you enjoy your stay. :)
