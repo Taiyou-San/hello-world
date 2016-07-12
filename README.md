@@ -1,4 +1,2 @@
 # hello-world
-Welcome to my Hello World repo. 
-
-I hope you enjoy your stay. :)
+Welcome to the repo for our Java Project.
